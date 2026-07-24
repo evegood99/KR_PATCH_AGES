@@ -10,8 +10,9 @@
 
 | | |
 |---|---|
-| ![한글 저작권 화면](screenshots/copyright_kr.png) | ![한글 메뉴](screenshots/menu_kr.png) |
-| ![게임 보드](screenshots/board.png) | |
+| ![플레이어 선택](screenshots/player_select.png) | ![존스 도전](screenshots/jones_challenge.png) |
+| ![Z마트 상점](screenshots/zmart_shop.png) | ![모노리스 버거](screenshots/monolith_burgers.png) |
+| ![직업소개소](screenshots/employment_office.png) | ![취직 성공](screenshots/employment_hired.png) |
 
 ## 기술 개요
 
