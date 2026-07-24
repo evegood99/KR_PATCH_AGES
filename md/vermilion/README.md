@@ -31,11 +31,16 @@ SHA1: 697fb165051179a2bbca77c8cfd0c929e334f8c1
 MD5:  a94ee29eb0bb480faa023625085e68d8
 ```
 
+## 다운로드
+
+패치 파일은 **[Releases](https://github.com/evegood99/KR_PATCH_AGES/releases/tag/vermilion-v0.9)** 에서 받으세요:
+`vermilion_kr_v0.9.xdelta`
+
 ## 적용 방법
 
 **GUI (권장)** — [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
 1. Original file: 원본 롬 선택
-2. XDelta patch: `patch/vermilion_kr_v0.9.xdelta` 선택
+2. XDelta patch: 다운로드한 `vermilion_kr_v0.9.xdelta` 선택
 3. Apply patch
 
 **CLI**
