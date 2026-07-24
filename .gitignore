@@ -1,0 +1,16 @@
+# 개발용 데이터(롬/게임파일/도구 포함)는 커밋하지 않음
+**/src/
+
+# 롬/게임 파일 금지 (메가드라이브 .md 확장자는 이름을 명시해 차단)
+*.gen
+*.smd
+*.32x
+*.sms
+*.gg
+*.sfc
+*.nes
+Vermilion*.md
+vermilion_kr.md
+*.srm
+*.state
+*.sav
