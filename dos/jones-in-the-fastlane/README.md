@@ -1,4 +1,4 @@
-# 존스 인 더 패스트레인 (Jones in the Fast Lane) 한글화 패치
+# 존의 사생활 (Jones in the Fast Lane) 한글화 패치
 
 시에라 1990년작 DOS 보드게임형 인생 시뮬레이션 **Jones in the Fast Lane**(SCI1 엔진)의 한글화 패치입니다.
 
@@ -61,10 +61,15 @@ xdelta3 -d -s sciv256.exe  patch/sciv256.exe.xdelta  sciv256.exe.new
 
 ## 실행 방법
 
+게임 폴더에서 실행 파일을 그대로 실행하면 됩니다.
+
 ```
-sciv256 -w 0 0 200 320
+sciv256.exe
 ```
-원본 `sierra.bat` 과 동일한 인자입니다. `-w` 뒤 네 숫자는 창 사각형(top, left, bottom, right)으로 320x200 전체 화면을 뜻합니다.
+
+원본에 들어 있는 `sierra.bat` 으로 실행해도 되고, 직접 만든 배치 파일에서 호출해도 됩니다.
+(`sierra.bat` 은 `sciv256 -w 0 0 200 320` 을 호출하는데, `-w` 뒤 네 숫자는 창 사각형
+top·left·bottom·right로 320x200 전체 화면을 뜻합니다. 기본값과 같아 생략해도 무방합니다.)
 
 DOSBox-X 권장 설정:
 ```
