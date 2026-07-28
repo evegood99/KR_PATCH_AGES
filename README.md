@@ -14,6 +14,7 @@
 |------|--------|------|------|----------|
 | [<img src="md/vermilion/screenshots/title.png" width="240"><br>**버밀리온 (Vermilion)**](md/vermilion/) | 메가드라이브 | v0.9 | 테스트 중 | [Release](https://github.com/evegood99/KR_PATCH_AGES/releases/tag/vermilion-v0.9) |
 | [<img src="dos/jones-in-the-fastlane/screenshots/start_ment.png" width="240"><br>**존의 사생활**](dos/jones-in-the-fastlane/) | DOS | v0.9 | 1차 검수 완료 | [Release](https://github.com/evegood99/KR_PATCH_AGES/releases/tag/jones-in-the-fastlane-v0.9) |
+| [<img src="md/super-daisenryaku/screenshots/title.png" width="240"><br>**슈퍼 대전략**](md/super-daisenryaku/) | 메가드라이브 | v0.1 | 🔧 개발 중 | 준비 중 |
 
 ## 패치 적용 방법 (공통 — xdelta 형식)
 
