@@ -35,6 +35,7 @@
 | ![타이틀](screenshots/title.png) | ![오프닝](screenshots/opening1.png) |
 | ![오프닝2](screenshots/opening2.png) | ![저장 화면](screenshots/data_load_save.png) |
 | ![마을](screenshots/map1.png) | ![상점](screenshots/shop1.png) |
+| ![상태창](screenshots/stat.png) | ![대화](screenshots/map2.png) |
 
 ## 원본 롬 정보
 
