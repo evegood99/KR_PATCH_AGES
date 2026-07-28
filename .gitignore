@@ -14,3 +14,9 @@ vermilion_kr.md
 *.srm
 *.state
 *.sav
+
+# 롬 원본 폴더 (메가드라이브 롬은 .md 확장자라 README.md와 구분 필요)
+**/original/
+*(Japan).md
+*(USA).md
+*(Europe).md
