@@ -7,7 +7,7 @@
 
 ## 다운로드
 
-**[Releases](https://github.com/evegood99/KR_PATCH_AGES/releases/tag/minato-no-traysia-v0.2)** 에서 `traysia_kr_v0.2.xdelta` 를 받으세요.
+**준비 중** — 번역이 더 진행된 뒤 배포할 예정입니다.
 
 ## 진행 상황
 
@@ -53,15 +53,7 @@ MD5:  11f4c832bad659a277ab06130e90301d
 
 ## 적용 방법
 
-**GUI (권장)** — [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases)
-1. Original file: 원본 롬 선택
-2. XDelta patch: 다운로드한 `traysia_kr_v0.2.xdelta` 선택
-3. Apply patch
-
-**CLI**
-```
-xdelta3 -d -s "Minato no Traysia (Japan).md" traysia_kr_v0.2.xdelta traysia_kr.md
-```
+패치 배포 시 다른 게임과 동일하게 xdelta 형식으로 제공할 예정입니다.
 
 ## 기술 개요
 
