@@ -6,7 +6,7 @@
 
 - 패치 파일만 배포합니다. **게임 롬/원본 파일은 포함하지 않습니다.**
 - 각 게임 폴더의 README에서 적용 방법·원본 정보·스크린샷을 확인할 수 있습니다.
-- 폴더 구조: `시스템/게임` (예: `md/vermilion`, `dos/jones-in-the-fastlane`)
+- 폴더 구조: `시스템/게임` (예: `md/vermilion`, `dos/jones-in-the-fastlane`, `psp/Minna-no-Golf-Portable2`)
 
 ## 게임 목록
 
@@ -17,6 +17,7 @@
 | [<img src="md/super-daisenryaku/screenshots/title.png" width="240"><br>**슈퍼 대전략**](md/super-daisenryaku/) | 메가드라이브 | v0.8 | 🔍 검수 중 | [Release](https://github.com/evegood99/KR_PATCH_AGES/releases/tag/super-daisenryaku-v0.8) |
 | [<img src="md/Minato-no-Traysia/screenshots/title.png" width="240"><br>**항구의 트레이지아**](md/Minato-no-Traysia/) | 메가드라이브 | v0.8 | 🔍 검수 중 | [Release](https://github.com/evegood99/KR_PATCH_AGES/releases/tag/minato-no-traysia-v0.8) |
 | [<img src="md/master-of-monsters/screenshots/overview.png" width="240"><br>**마스터 오브 몬스터즈**](md/master-of-monsters/) | 메가드라이브 | - | 📋 준비 중 | 준비 중 |
+| [<img src="psp/Minna-no-Golf-Portable2/screenshots/title.png" width="240"><br>**모두의 골프 포터블 2**](psp/Minna-no-Golf-Portable2/) | PSP | - | 🔬 분석 중 | 준비 중 |
 
 ## 패치 적용 방법 (공통 — xdelta 형식)
 

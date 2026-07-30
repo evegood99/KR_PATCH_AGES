@@ -20,3 +20,8 @@ vermilion_kr.md
 *(Japan).md
 *(USA).md
 *(Europe).md
+
+# PSP/디스크 이미지
+*.iso
+*.cso
+*.pbp
