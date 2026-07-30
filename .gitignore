@@ -25,3 +25,6 @@ vermilion_kr.md
 *.iso
 *.cso
 *.pbp
+
+# 임시 로그
+extract_log.txt
