@@ -9,23 +9,6 @@
 
 **준비 중**
 
-## 원본 정보
-
-```
-Minna no Golf Portable 2 (Japan, Korea) (v1.09).iso
-크기: 922,025,984 bytes
-MD5:  7c94ccb94b3bb336095af3de0fd912cb
-```
-
-| 항목 | 값 |
-|---|---|
-| DISC_ID | UCJS-10075 |
-| TITLE | みんなのGOLF ポータブル２ |
-| DISC_VERSION | 1.09 |
-| PSP_SYSTEM_VER | 3.72 |
-
-「Japan, Korea」는 같은 UMD가 두 지역에 유통됐다는 뜻이고, **내용은 일본어판**입니다.
-
 ## 진행 상황
 
 | 항목 | 상태 |
@@ -48,6 +31,43 @@ MD5:  7c94ccb94b3bb336095af3de0fd912cb
 | **타이틀 화면 그래픽** | ✅ 로고·버튼 한글화 |
 | **메인 메뉴 그래픽** | ✅ 버튼 19개 + 상단 띠 5종 한글화 |
 | **챌린지 화면 그래픽** | ✅ 150건 (제목·캐릭터·랭크·코스·규칙·카드) |
+
+## 스크린샷
+
+| 타이틀 | 메인 메뉴 |
+|---|---|
+| ![타이틀](screenshots/title.png) | ![메인 메뉴](screenshots/main_menu.png) |
+
+| 혼자서 GOLF | 챌린지 |
+|---|---|
+| ![혼자서 GOLF](screenshots/menu1.png) | ![챌린지](screenshots/course_selection.png) |
+
+| 대회 참가 | 데이터 불러오기 |
+|---|---|
+| ![대회 참가](screenshots/course_selection2.png) | ![데이터 불러오기](screenshots/data_load.png) |
+
+## 적용 방법
+
+**준비 중** — 배포 시 xdelta 패치로 제공합니다.
+
+
+## 원본 정보
+
+```
+Minna no Golf Portable 2 (Japan, Korea) (v1.09).iso
+크기: 922,025,984 bytes
+MD5:  7c94ccb94b3bb336095af3de0fd912cb
+```
+
+| 항목 | 값 |
+|---|---|
+| DISC_ID | UCJS-10075 |
+| TITLE | みんなのGOLF ポータブル２ |
+| DISC_VERSION | 1.09 |
+| PSP_SYSTEM_VER | 3.72 |
+
+「Japan, Korea」는 같은 UMD가 두 지역에 유통됐다는 뜻이고, **내용은 일본어판**입니다.
+
 
 ## 구성
 
@@ -294,7 +314,7 @@ LBA 4434 로 이동했습니다.
 | `open_choise.gim` | 256×64 | 「はじめから」「つづきから」 | 「처음부터」「이어하기」 |
 | `open_MGP.gim` | 512×256 | 「みんなの GOLF ポータブル 2」 로고 | 「모두의 GOLF 포터블 2」 |
 
-**GIM 포맷** — `MIG.00.1PSP ` 뒤에 16바이트 헤더의 청크 트리(2=root, 3=picture,
+**GIM 포맷** — `MIG.00.1PSP` 뒤에 16바이트 헤더의 청크 트리(2=root, 3=picture,
 4=image, 5=palette). 이미지 헤더에 format/pixel_order/width/height/bpp 가 있고,
 둘 다 **INDEX8 + 256색 팔레트**입니다.
 
