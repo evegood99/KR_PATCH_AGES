@@ -17,7 +17,7 @@
 | [<img src="md/super-daisenryaku/screenshots/title.png" width="240"><br>**슈퍼 대전략**](md/super-daisenryaku/) | 메가드라이브 | v0.8 | 🔍 검수 중 | [Release](https://github.com/evegood99/KR_PATCH_AGES/releases/tag/super-daisenryaku-v0.8) |
 | [<img src="md/Minato-no-Traysia/screenshots/title.png" width="240"><br>**항구의 트레이지아**](md/Minato-no-Traysia/) | 메가드라이브 | v0.8 | 🔍 검수 중 | [Release](https://github.com/evegood99/KR_PATCH_AGES/releases/tag/minato-no-traysia-v0.8) |
 | [<img src="md/master-of-monsters/screenshots/overview.png" width="240"><br>**마스터 오브 몬스터즈**](md/master-of-monsters/) | 메가드라이브 | - | 📋 준비 중 | 준비 중 |
-| [<img src="psp/Minna-no-Golf-Portable2/screenshots/title.png" width="240"><br>**모두의 골프 포터블 2**](psp/Minna-no-Golf-Portable2/) | PSP | v0.5 | 🚧 개발 중 | 준비 중 |
+| [<img src="psp/Minna-no-Golf-Portable2/screenshots/title.png" width="240"><br>**모두의 골프 포터블 2**](psp/Minna-no-Golf-Portable2/) | PSP | v0.8 | 🚧 개발 중 | 준비 중 |
 
 ## 패치 적용 방법 (공통 — xdelta 형식)
 
