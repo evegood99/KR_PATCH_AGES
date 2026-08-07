@@ -60,6 +60,10 @@
 |---|---|
 | ![코스 진입](screenshots/course_view.png) | ![인게임](screenshots/in_game.png) |
 
+| 클리어 보너스 | |
+|---|---|
+| ![클리어 보너스](screenshots/clear_bonus.png) | |
+
 ## 적용 방법
 
 원본 ISO(아래 「원본 정보」와 MD5 일치)에 `mgp_kr_v0.8.xdelta` 를 적용합니다.
