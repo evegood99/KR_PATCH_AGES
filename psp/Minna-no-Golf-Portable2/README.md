@@ -7,7 +7,7 @@
 
 ## 다운로드
 
-**준비 중**
+**[mgp_kr_v0.8.xdelta — Releases](https://github.com/evegood99/KR_PATCH_AGES/releases/tag/minna-no-golf-portable2-v0.8)**
 
 ## 진행 상황
 
